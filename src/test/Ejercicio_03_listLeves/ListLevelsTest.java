@@ -2,7 +2,7 @@ package test.Ejercicio_03_listLeves;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.List;
-import main.Ejercicio_03_listLeves.ListLevels;
+import main.Materia.Ejercicio_03_listLeves.ListLevels;
 import main.Materia.Models.Node;
 
 import org.junit.jupiter.api.Test;

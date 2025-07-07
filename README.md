@@ -175,7 +175,17 @@ Calcula la profundidad máxima de un árbol binario (la longitud del camino más
 |                    | Código funcional pero **no pasa todas las pruebas**                                   | 6 pts       |
 |                    | Código funcional y **pasa todas las pruebas correctamente**                           | 7 pts       |
 
+##  Descripcion
 
+1. Se implementa un árbol binario de búsqueda que permite insertar valores siguiendo las reglas del BST, donde los valores menores van al subárbol izquierdo y los mayores al derecho.
+
+2. Se desarrolla una función que invierte un árbol binario, intercambiando los nodos izquierdo y derecho de forma recursiva, creando su imagen especular.
+
+3. El algoritmo recorre un árbol binario por niveles y devuelve una lista enlazada por cada nivel del árbol, agrupando los nodos que se encuentran en la misma profundidad.
+
+4. Se calcula la profundidad máxima de un árbol binario, es decir, el número de niveles desde la raíz hasta la hoja más profunda.
+
+![Ejecución Sets](Imagen/PracticaTree.png)
 
 ## Contribuir
 
@@ -184,4 +194,5 @@ Para contribuir a este proyecto, por favor crea un fork y envía una solicitud d
 ## Autores
 
 - [PABLO TORRES] - Desarrollo inicial
+-Autor: Alexander Beltran
 

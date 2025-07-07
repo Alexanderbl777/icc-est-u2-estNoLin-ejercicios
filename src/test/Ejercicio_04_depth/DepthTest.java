@@ -2,7 +2,7 @@ package test.Ejercicio_04_depth;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import main.Ejercicio_04_depth.Depth;
+import main.Materia.Ejercicio_04_depth.Depth;
 import main.Materia.Models.Node;
 
 import org.junit.jupiter.api.Test;

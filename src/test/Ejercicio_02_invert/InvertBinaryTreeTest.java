@@ -2,7 +2,7 @@ package test.Ejercicio_02_invert;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import main.Ejercicio_02_invert.InvertBinaryTree;
+import main.Materia.Ejercicio_02_invert.InvertBinaryTree;
 import main.Materia.Models.Node;
 
 import org.junit.jupiter.api.Test;
@@ -20,7 +20,7 @@ public class InvertBinaryTreeTest {
         root.getRight().setLeft(new Node(6));
         root.getRight().setRight(new Node(9));
 
-        Node newRoot = invertBinaryTree.invertTree(root);
+        Node newRoot = invertBinaryTree.invertir(root);
         assertEquals(4, newRoot.getValue());
         assertEquals(7, newRoot.getLeft().getValue());
         assertEquals(2, newRoot.getRight().getValue());
