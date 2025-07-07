@@ -185,7 +185,7 @@ Calcula la profundidad máxima de un árbol binario (la longitud del camino más
 
 4. Se calcula la profundidad máxima de un árbol binario, es decir, el número de niveles desde la raíz hasta la hoja más profunda.
 
-![Ejecución Sets](Imagen/PracticaTree.png)
+![Practica Tree](imagen/PracticaTree.png)
 
 ## Contribuir
 
